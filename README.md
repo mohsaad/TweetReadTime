@@ -16,4 +16,4 @@ To use, specify 3 things:
 
 Note: Twitter rate limits to 180 requests per hour, so use a sampling period of more than 20 seconds to avoid rate limiting. I recommend using 20 or 30 second intervals because they're nice and neat.
 
-Have fun!
+Have fun!!
